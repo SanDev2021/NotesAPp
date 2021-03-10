@@ -1,0 +1,469 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TaskdetailViewController"
+provides-nominal:
+- "9final_Prj24TaskdetailViewControllerC"
+provides-member:
+- ["9final_Prj24TaskdetailViewControllerC", ""]
+provides-dynamic-lookup:
+- "taskView"
+- "tasktable"
+- "textString"
+- "viewDidLoad"
+- "viewWillDisappear"
+depends-top-level:
+- !private "??"
+- "AssignmentPrecedence"
+- "Bool"
+- "String"
+- !private "StringLiteralType"
+- "TaskdetailViewController"
+- "UITextView"
+- "UIViewController"
+- "notesTableViewController"
+- !private "taskView"
+- !private "tasktable"
+- !private "textString"
+depends-member:
+- !private ["s18AdditiveArithmeticP", ""]
+- ["SK", ""]
+- !private ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "text"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "taskView"]
+- !private ["s7CVarArgP", "tasktable"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "textString"]
+- !private ["s7CVarArgP", "updateText"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["s7CVarArgP", "viewWillDisappear"]
+- ["Sl", ""]
+- ["SL", ""]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "taskView"]
+- !private ["s28CustomDebugStringConvertibleP", "tasktable"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "textString"]
+- !private ["s28CustomDebugStringConvertibleP", "updateText"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "viewWillDisappear"]
+- !private ["s17CustomReflectableP", "text"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "taskView"]
+- !private ["s23CustomStringConvertibleP", "tasktable"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "textString"]
+- !private ["s23CustomStringConvertibleP", "updateText"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["s23CustomStringConvertibleP", "viewWillDisappear"]
+- !private ["Se", "text"]
+- !private ["SE", "text"]
+- ["SQ", ""]
+- !private ["SQ", "taskView"]
+- !private ["SQ", "tasktable"]
+- !private ["SQ", "text"]
+- !private ["SQ", "textString"]
+- !private ["SQ", "updateText"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["SQ", "viewWillDisappear"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- !private ["s25ExpressibleByFloatLiteralP", ""]
+- !private ["s27ExpressibleByIntegerLiteralP", ""]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- ["s32ExpressibleByStringInterpolationP", ""]
+- ["s26ExpressibleByStringLiteralP", ""]
+- ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- !private ["SF", ""]
+- ["SH", ""]
+- !private ["SH", "taskView"]
+- !private ["SH", "tasktable"]
+- !private ["SH", "text"]
+- !private ["SH", "textString"]
+- !private ["SH", "updateText"]
+- !private ["SH", "viewDidLoad"]
+- !private ["SH", "viewWillDisappear"]
+- ["s25LosslessStringConvertibleP", ""]
+- ["So8NSCodingP", "Bool"]
+- ["So8NSCodingP", "String"]
+- ["So8NSCodingP", "UITextView"]
+- ["So8NSCodingP", ""]
+- ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "notesTableViewController"]
+- ["So8NSCodingP", "taskView"]
+- ["So8NSCodingP", "tasktable"]
+- !private ["So8NSCodingP", "text"]
+- ["So8NSCodingP", "textString"]
+- ["So8NSCodingP", "updateText"]
+- ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", "viewWillDisappear"]
+- ["So26NSExtensionRequestHandlingP", "Bool"]
+- ["So26NSExtensionRequestHandlingP", "String"]
+- ["So26NSExtensionRequestHandlingP", "UITextView"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- ["So26NSExtensionRequestHandlingP", "init"]
+- ["So26NSExtensionRequestHandlingP", "notesTableViewController"]
+- ["So26NSExtensionRequestHandlingP", "taskView"]
+- ["So26NSExtensionRequestHandlingP", "tasktable"]
+- ["So26NSExtensionRequestHandlingP", "textString"]
+- ["So26NSExtensionRequestHandlingP", "updateText"]
+- ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", "viewWillDisappear"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "UITextView"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "notesTableViewController"]
+- ["So8NSObjectC", "taskView"]
+- ["So8NSObjectC", "tasktable"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "textString"]
+- !private ["So8NSObjectC", "updateText"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectC", "viewWillDisappear"]
+- ["So8NSObjectP", "Bool"]
+- ["So8NSObjectP", "String"]
+- ["So8NSObjectP", "UITextView"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "notesTableViewController"]
+- ["So8NSObjectP", "taskView"]
+- ["So8NSObjectP", "tasktable"]
+- !private ["So8NSObjectP", "text"]
+- ["So8NSObjectP", "textString"]
+- ["So8NSObjectP", "updateText"]
+- ["So8NSObjectP", "viewDidLoad"]
+- ["So8NSObjectP", "viewWillDisappear"]
+- !private ["Sj", ""]
+- !private ["Sq", "text"]
+- ["ST", ""]
+- !private ["s13SignedNumericP", ""]
+- !private ["Sx", ""]
+- ["9final_Prj24TaskdetailViewControllerC", "Bool"]
+- ["9final_Prj24TaskdetailViewControllerC", "String"]
+- ["9final_Prj24TaskdetailViewControllerC", "UITextView"]
+- ["9final_Prj24TaskdetailViewControllerC", ""]
+- ["9final_Prj24TaskdetailViewControllerC", "deinit"]
+- ["9final_Prj24TaskdetailViewControllerC", "init"]
+- ["9final_Prj24TaskdetailViewControllerC", "notesTableViewController"]
+- ["9final_Prj24TaskdetailViewControllerC", "taskView"]
+- ["9final_Prj24TaskdetailViewControllerC", "tasktable"]
+- ["9final_Prj24TaskdetailViewControllerC", "textString"]
+- ["9final_Prj24TaskdetailViewControllerC", "viewDidLoad"]
+- ["9final_Prj24TaskdetailViewControllerC", "viewWillDisappear"]
+- ["s16TextOutputStreamP", ""]
+- ["s20TextOutputStreamableP", ""]
+- !private ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "text"]
+- ["So21UIAppearanceContainerP", "Bool"]
+- ["So21UIAppearanceContainerP", "String"]
+- ["So21UIAppearanceContainerP", "UITextView"]
+- ["So21UIAppearanceContainerP", ""]
+- ["So21UIAppearanceContainerP", "init"]
+- ["So21UIAppearanceContainerP", "notesTableViewController"]
+- ["So21UIAppearanceContainerP", "taskView"]
+- ["So21UIAppearanceContainerP", "tasktable"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- ["So21UIAppearanceContainerP", "textString"]
+- ["So21UIAppearanceContainerP", "updateText"]
+- ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", "viewWillDisappear"]
+- ["So18UIContentContainerP", "Bool"]
+- ["So18UIContentContainerP", "String"]
+- ["So18UIContentContainerP", "UITextView"]
+- ["So18UIContentContainerP", ""]
+- ["So18UIContentContainerP", "init"]
+- ["So18UIContentContainerP", "notesTableViewController"]
+- ["So18UIContentContainerP", "taskView"]
+- ["So18UIContentContainerP", "tasktable"]
+- ["So18UIContentContainerP", "textString"]
+- ["So18UIContentContainerP", "updateText"]
+- ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", "viewWillDisappear"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "text"]
+- ["So18UIFocusEnvironmentP", "Bool"]
+- ["So18UIFocusEnvironmentP", "String"]
+- ["So18UIFocusEnvironmentP", "UITextView"]
+- ["So18UIFocusEnvironmentP", ""]
+- ["So18UIFocusEnvironmentP", "init"]
+- ["So18UIFocusEnvironmentP", "notesTableViewController"]
+- ["So18UIFocusEnvironmentP", "taskView"]
+- ["So18UIFocusEnvironmentP", "tasktable"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- ["So18UIFocusEnvironmentP", "textString"]
+- ["So18UIFocusEnvironmentP", "updateText"]
+- ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", "viewWillDisappear"]
+- !private ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "text"]
+- ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So30UIFocusItemScrollableContainerP", ""]
+- !private ["So30UIFocusItemScrollableContainerP", "text"]
+- ["So10UIKeyInputP", ""]
+- !private ["So10UIKeyInputP", "text"]
+- !private ["So24UILargeContentViewerItemP", ""]
+- !private ["So24UILargeContentViewerItemP", "text"]
+- ["So30UIPasteConfigurationSupportingP", "Bool"]
+- ["So30UIPasteConfigurationSupportingP", "String"]
+- ["So30UIPasteConfigurationSupportingP", "UITextView"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So30UIPasteConfigurationSupportingP", "init"]
+- ["So30UIPasteConfigurationSupportingP", "notesTableViewController"]
+- ["So30UIPasteConfigurationSupportingP", "taskView"]
+- ["So30UIPasteConfigurationSupportingP", "tasktable"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- ["So30UIPasteConfigurationSupportingP", "textString"]
+- ["So30UIPasteConfigurationSupportingP", "updateText"]
+- ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", "viewWillDisappear"]
+- ["So11UIResponderC", "Bool"]
+- ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "UITextView"]
+- ["So11UIResponderC", ""]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "notesTableViewController"]
+- ["So11UIResponderC", "taskView"]
+- ["So11UIResponderC", "tasktable"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "textString"]
+- !private ["So11UIResponderC", "updateText"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So11UIResponderC", "viewWillDisappear"]
+- ["So30UIResponderStandardEditActionsP", "Bool"]
+- ["So30UIResponderStandardEditActionsP", "String"]
+- ["So30UIResponderStandardEditActionsP", "UITextView"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- ["So30UIResponderStandardEditActionsP", "init"]
+- ["So30UIResponderStandardEditActionsP", "notesTableViewController"]
+- ["So30UIResponderStandardEditActionsP", "taskView"]
+- ["So30UIResponderStandardEditActionsP", "tasktable"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- ["So30UIResponderStandardEditActionsP", "textString"]
+- ["So30UIResponderStandardEditActionsP", "updateText"]
+- ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", "viewWillDisappear"]
+- ["So12UIScrollViewC", ""]
+- !private ["So12UIScrollViewC", "text"]
+- !private ["So20UIScrollViewDelegateP", ""]
+- ["So20UIScrollViewDelegateP", "updateText"]
+- ["So16UIStateRestoringP", "Bool"]
+- ["So16UIStateRestoringP", "String"]
+- ["So16UIStateRestoringP", "UITextView"]
+- ["So16UIStateRestoringP", ""]
+- ["So16UIStateRestoringP", "init"]
+- ["So16UIStateRestoringP", "notesTableViewController"]
+- ["So16UIStateRestoringP", "taskView"]
+- ["So16UIStateRestoringP", "tasktable"]
+- ["So16UIStateRestoringP", "textString"]
+- ["So16UIStateRestoringP", "updateText"]
+- ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", "viewWillDisappear"]
+- ["So21UITableViewControllerC", ""]
+- !private ["So21UITableViewControllerC", "updateText"]
+- ["So21UITableViewDataSourceP", "updateText"]
+- ["So19UITableViewDelegateP", "updateText"]
+- !private ["So15UITextDraggableP", "text"]
+- !private ["So15UITextDroppableP", "text"]
+- !private ["So11UITextInputP", ""]
+- !private ["So11UITextInputP", "text"]
+- ["So17UITextInputTraitsP", ""]
+- !private ["So17UITextInputTraitsP", "text"]
+- !private ["So34UITextPasteConfigurationSupportingP", ""]
+- !private ["So34UITextPasteConfigurationSupportingP", "text"]
+- !private ["So10UITextViewC", "text"]
+- ["So18UITraitEnvironmentP", "Bool"]
+- ["So18UITraitEnvironmentP", "String"]
+- ["So18UITraitEnvironmentP", "UITextView"]
+- ["So18UITraitEnvironmentP", ""]
+- ["So18UITraitEnvironmentP", "init"]
+- ["So18UITraitEnvironmentP", "notesTableViewController"]
+- ["So18UITraitEnvironmentP", "taskView"]
+- ["So18UITraitEnvironmentP", "tasktable"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- ["So18UITraitEnvironmentP", "textString"]
+- ["So18UITraitEnvironmentP", "updateText"]
+- ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", "viewWillDisappear"]
+- ["So23UIUserActivityRestoringP", "Bool"]
+- ["So23UIUserActivityRestoringP", "String"]
+- ["So23UIUserActivityRestoringP", "UITextView"]
+- ["So23UIUserActivityRestoringP", ""]
+- ["So23UIUserActivityRestoringP", "init"]
+- ["So23UIUserActivityRestoringP", "notesTableViewController"]
+- ["So23UIUserActivityRestoringP", "taskView"]
+- ["So23UIUserActivityRestoringP", "tasktable"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- ["So23UIUserActivityRestoringP", "textString"]
+- ["So23UIUserActivityRestoringP", "updateText"]
+- ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- ["So23UIUserActivityRestoringP", "viewWillDisappear"]
+- ["So6UIViewC", ""]
+- !private ["So6UIViewC", "text"]
+- ["So16UIViewControllerC", "Bool"]
+- ["So16UIViewControllerC", "String"]
+- ["So16UIViewControllerC", "UITextView"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "notesTableViewController"]
+- ["So16UIViewControllerC", "taskView"]
+- ["So16UIViewControllerC", "tasktable"]
+- ["So16UIViewControllerC", "textString"]
+- !private ["So16UIViewControllerC", "updateText"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", "viewWillDisappear"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "taskView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "tasktable"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "textString"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "updateText"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewWillDisappear"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "taskView"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "tasktable"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "text"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "textString"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "updateText"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewWillDisappear"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["9final_Prj24notesTableViewControllerC", "updateText"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- "SK"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "SF"
+- "SH"
+- "s25LosslessStringConvertibleP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sj"
+- !private "Sq"
+- "ST"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- "9final_Prj24TaskdetailViewControllerC"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- !private "So30UIFocusItemScrollableContainerP"
+- "So10UIKeyInputP"
+- !private "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So12UIScrollViewC"
+- "So20UIScrollViewDelegateP"
+- "So16UIStateRestoringP"
+- "So21UITableViewControllerC"
+- "So21UITableViewDataSourceP"
+- "So19UITableViewDelegateP"
+- !private "So15UITextDraggableP"
+- !private "So15UITextDroppableP"
+- !private "So11UITextInputP"
+- "So17UITextInputTraitsP"
+- !private "So34UITextPasteConfigurationSupportingP"
+- !private "So10UITextViewC"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "So16UIViewControllerC"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+- !private "9final_Prj24notesTableViewControllerC"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreMIDI.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreMedia.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreData.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/simd.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreLocation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/AVFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreAudio.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UniformTypeIdentifiers.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CloudKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreAudioTypes.framework/Headers/CoreAudioTypes.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UniformTypeIdentifiers.framework/Headers/UniformTypeIdentifiers.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CloudKit.framework/Headers/CloudKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers/MediaToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "5119350a0a4a5b95f80a2856f93dbb37"

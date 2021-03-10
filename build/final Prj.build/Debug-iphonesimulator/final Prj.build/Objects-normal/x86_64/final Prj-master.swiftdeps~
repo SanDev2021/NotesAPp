@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "7191c1e41cd50e73e35708ff174ebcf6"
+build_time: [1615398048, 664671000]
+inputs:
+  "/Users/sandy/Documents/ALL PROJECTS/college projects/android ,java,ios/final-Prj-master/final Prj/notesTableViewController.swift": [1580089521, 0]
+  "/Users/sandy/Documents/ALL PROJECTS/college projects/android ,java,ios/final-Prj-master/final Prj/AppDelegate.swift": [1580089521, 0]
+  "/Users/sandy/Documents/ALL PROJECTS/college projects/android ,java,ios/final-Prj-master/final Prj/foldersTableViewController.swift": [1580089521, 0]
+  "/Users/sandy/Documents/ALL PROJECTS/college projects/android ,java,ios/final-Prj-master/final Prj/ViewController.swift": [1580089521, 0]
+  "/Users/sandy/Documents/ALL PROJECTS/college projects/android ,java,ios/final-Prj-master/final Prj/SceneDelegate.swift": [1580089521, 0]
+  "/Users/sandy/Documents/ALL PROJECTS/college projects/android ,java,ios/final-Prj-master/final Prj/TaskdetailViewController.swift": [1580089521, 0]
+  "/Users/sandy/Documents/ALL PROJECTS/college projects/android ,java,ios/final-Prj-master/final Prj/moveTofloderViewController.swift": [1580089521, 0]
+  "/Users/sandy/Documents/ALL PROJECTS/college projects/android ,java,ios/final-Prj-master/final Prj/collection.swift": [1580089521, 0]
